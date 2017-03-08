@@ -1,4 +1,4 @@
 User-agent: *
-<Sitemap: http://www.panxw.com/atom.xml>
+
 
 Sitemap: http://pingking.tk/atom.xml
