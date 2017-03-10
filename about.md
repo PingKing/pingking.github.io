@@ -5,7 +5,7 @@ title: "关于：About"
 Welcome to visit PingKing's blog!
 
 #### 1.Personal Info
-Name: PingKing 
+Name: PingKing  
 Gender: Male  
 City: Shanghai, China  
 Career: Software developer(Linux)  
