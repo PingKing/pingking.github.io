@@ -1,4 +1,4 @@
 ---
 layout: category
-category: [ Japanese & English ]
+category:  [ Linux ]
 ---
