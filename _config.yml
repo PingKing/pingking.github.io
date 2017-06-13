@@ -18,11 +18,12 @@ all_categories: [
 #["read", "读书笔记","/posts/read.html"], 
 #["other", "杂记","/posts/other.html"],
 #["about", "关于","/about.html"]
-["android","Android","/posts/android.html"],
-["program", "Programming","/posts/program.html"],
-["linux", "Linux","/posts/linux.html"],
-["read", "Reading & Life","/posts/read.html"], 
+["programming","programming","/posts/programming.html"],
+["linux", "linux","/posts/linux.html"],
+["foreign language", "foreign language","/posts/japanese.html"],
+["Reading & Life", "Reading & Life","/posts/read.html"], 
 ["other", "Other","/posts/other.html"],
+["tips", "Tips","/posts/tips.html"],
 ["about", "About","/about.html"]
 ]
 
