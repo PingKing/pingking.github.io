@@ -1,4 +1,4 @@
 ---
 layout: category
-category: [ Reading & Life ]
+category: read
 ---
