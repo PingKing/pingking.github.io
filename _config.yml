@@ -20,8 +20,8 @@ all_categories: [
 #["about", "关于","/about.html"]
 ["programming","programming","/posts/programming.html"],
 ["linux", "linux","/posts/linux.html"],
-["foreign language", "foreign language","/posts/japanese.html"],
-["Reading & Life", "Reading & Life","/posts/read.html"], 
+["japanese", "foreign language","/posts/japanese.html"],
+["read", "Reading & Life","/posts/read.html"], 
 ["other", "Other","/posts/other.html"],
 ["tips", "Tips","/posts/tips.html"],
 ["about", "About","/about.html"]
