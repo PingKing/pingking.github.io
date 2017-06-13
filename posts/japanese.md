@@ -1,4 +1,4 @@
 ---
 layout: category
-category: [ foreign language ]
+category:japanese
 ---
