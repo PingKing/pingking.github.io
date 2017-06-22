@@ -13,12 +13,13 @@ all_categories: [
 #
 #["android", "Android","/posts/android.html"], 
 #["program", "软件编程","/posts/program.html"],
-#["web", "Web建站","/posts/web.html"], 
+#["algorithm", "Web建站","/posts/algorithm.html"], 
 #["linux", "Linux相关","/posts/linux.html"],
 #["read", "读书笔记","/posts/read.html"], 
 #["other", "杂记","/posts/other.html"],
 #["about", "关于","/about.html"]
 ["programming","programming","/posts/programming.html"],
+["algorithm", "algorithm","/posts/algorithm.html"],
 ["linux", "linux","/posts/linux.html"],
 ["japanese", "foreign language","/posts/japanese.html"],
 ["read", "Reading & Life","/posts/read.html"], 
